@@ -4,6 +4,12 @@
 	color: white;
   
 }
+.center{
+    background-color: white;
+	padding: 20px;
+	color: white;
+    padding-color: black;
+}
 
 img.img-circle {
 	height: 250px;
