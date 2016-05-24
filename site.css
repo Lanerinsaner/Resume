@@ -1,21 +1,36 @@
 .left-col {
-	background-color: #333333;
+	background-color: white;
 	padding: 20px;
-	color: white;
+	color: black;
   
 }
 .center{
     background-color: white;
-	padding: 20px;
-	color: white;
-    padding-color: black;
+	padding: 5px;
+	color: black;
+    font-weight: bold;
 }
 
 img.img-circle {
 	height: 250px;
+  border: 8px solid rgba(0, 0, 0, .1);
 }
 body{
     text-align: center;
-    background-color:black;
+    background-color:#333333;
     
+}
+.name{
+  
+  background-color: #333333;
+  padding-right:  100px;
+  padding-right: border: width dotted black;
+  padding-left:  100px;
+	color: black;
+  
+}
+.jumbotron{
+  border-radius: 6px;
+  border: 8px solid rgba(0, 0, 0, .1);
+  
 }
