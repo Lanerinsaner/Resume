@@ -32,5 +32,6 @@ body{
 .jumbotron{
   border-radius: 6px;
   border: 8px solid rgba(0, 0, 0, .1);
+  opacity: 0;
   
 }
